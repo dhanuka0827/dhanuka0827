@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neha
-- 👀 I’m interested in solving real time problems
+- 👀 I’m interested in solving real life problems.
 - 🌱 I’m currently learning GCP.
 - 💞️ I’m looking to collaborate on building integration tools with open source products.
 - 📫 How to reach me ...
